@@ -13,7 +13,7 @@
 <body>
     <div class="main-section">
         <h3 style="text-align: center;">Create your account very quickly and easily</h3><br>
-        <form action="cible.php" method="post">
+        <form action="subscribe.php" method="post">
             <div style="display: flex; flex-direction:column; align-items:center;">
                 <div class="input" style="display: flex; flex-direction:column; align-items:center;">
                     <span>Username</span>
